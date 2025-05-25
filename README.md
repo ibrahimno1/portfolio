@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website showcasing my professional experience, technical projects, and skills. Built with HTML, CSS, and JavaScript.
 
+🌐 **[View Live Website](https://ibrahimno1.github.io/portfolio)**
+
 ## 🌟 Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
